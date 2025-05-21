@@ -20,12 +20,12 @@ The instructor for this internship is **Kunal Ghosh Sir**.
 
 ## Tasks
 
-- [Task 1: Tool Installation](#task-1-tool-installation)
+- [Task 1:](#task)
 <!-- You can add more tasks here as you progress -->
 
 ---
 
-## Task 1: Tool Installation
+## Task 1:
 
 The objective of **Task 1** is to install all the essential tools required for this internship. These include:
 
@@ -35,4 +35,4 @@ The objective of **Task 1** is to install all the essential tools required for t
 
 ### 📸 Screenshot
 
-![Screenshot](Screenshot 2025-05-21 201130.png) <!-- Update the image filename if needed -->
+![VSDSquadron Mini](Task1/Screenshot%202025-05-21%20201130.png) <!-- Update the image filename if needed -->
