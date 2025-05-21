@@ -33,6 +33,6 @@ The objective of **Task 1** is to install all the essential tools required for t
 - GNU Toolchain  
 - Running C code for displaying sum 1 to n.
 
-### 📸 Screenshot / Setup Image
+### 📸 Screenshot
 
-![Tool Installation Screenshot](Task1/image.jpg) <!-- Update the image filename if needed -->
+![Screenshot](Screenshot 2025-05-21 201130.png) <!-- Update the image filename if needed -->
