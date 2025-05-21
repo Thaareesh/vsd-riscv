@@ -32,7 +32,7 @@ The instructor for this internship is **Kunal Ghosh Sir**.
 
   ### 📸 Screenshot
 
-  ![VSDSquadron Mini](Task1/C%file.png)
+  ![VSDSquadron Mini](Task1/C file.png)
 
   C File is then converted to RISC-V Binary
 
