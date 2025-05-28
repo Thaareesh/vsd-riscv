@@ -61,9 +61,9 @@ The instructor for this internship is **Kunal Ghosh Sir**.
   ```bash
   spike pk sum1ton.o
   ```
-  ![Task](Task2/task1.jpg)
-  ![Task](Task2/task2.jpg)
-  ![Code](Task2/cprogram.jpg)
-  ![Task](Task2/task3.jpg)
-  ![Task](Task2/task4.jpg)
+  ![Task](task2/task1.jpg)
+  ![Task](task2/task2.jpg)
+  ![Code](task2/cprogram.jpg)
+  ![Task](task2/task3.jpg)
+  ![Task](task2/task4.jpg)
 </details>
