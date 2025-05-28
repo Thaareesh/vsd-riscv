@@ -87,13 +87,18 @@ The instructor for this internship is **Kunal Ghosh Sir**.
   }
 ```
 Count 1 to 10
+<br>
 ![Code](task2/cprogram.jpg)
+<br>
 Output of C code is:
-  ![Task](task2/task1.jpg)
-Complication using gcc
   ![Task](task2/task2.jpg)
+<br>
+Complication using gcc
+  ![Task](task2/task1.jpg)
+  <br>
 Assembly Language program for the above C code:
   ![Task](task2/task4.jpg)
+  <br>
 Debugging all the instructions in the Assembly language program using spike
   ![Task](task2/task3.jpg)
 </details>
