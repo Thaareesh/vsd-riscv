@@ -61,9 +61,39 @@ The instructor for this internship is **Kunal Ghosh Sir**.
   ```bash
   spike pk sum1ton.o
   ```
+**APPLICATION**
+  <summary><strong>🚀 Application: Simple Counting Program (1 to 5)</strong></summary>
+
+  <br>
+
+  This C program demonstrates a basic count-up logic from **1 to a specified number**.
+
+  ### 🎯 Objective:
+  - Initialize a variable with a final count value (e.g., 5)
+  - Use a `for` loop to iterate from 1 to the given value
+  - Print each count during the loop
+  - Exit the program once the count is complete
+
+  ### 💻 C Code:
+  ```c
+  #include <stdio.h>
+
+  int main() {
+      int count = 5;
+      for (int i = 1; i <= count; i++) {
+          printf("Count %d\n", i);
+      }
+      return 0;
+  }
+```
+Count 1 to 10
+![Code](task2/cprogram.jpg)
+Output of C code is:
   ![Task](task2/task1.jpg)
+Complication using gcc
   ![Task](task2/task2.jpg)
-  ![Code](task2/cprogram.jpg)
-  ![Task](task2/task3.jpg)
+Assembly Language program for the above C code:
   ![Task](task2/task4.jpg)
+Debugging all the instructions in the Assembly language program using spike
+  ![Task](task2/task3.jpg)
 </details>
