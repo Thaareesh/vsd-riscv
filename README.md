@@ -38,3 +38,25 @@ The instructor for this internship is **Kunal Ghosh Sir**.
   ![VSDSquadron Mini](Task1/C%20to%20Binary%20File.png)
   ![VSDSquadron Mini](Task1/Disassembly%20File.png)
 </details>
+<details>
+  <summary><strong>Task 2: Performing SPIKE Simulation and Debugging the C Code Using Spike</strong></summary>
+
+  <br>
+
+  ### 🧠 What is Spike?
+
+  **Spike** is the official simulator for the **RISC-V Instruction Set Architecture (ISA)**.  
+  It provides a virtual environment for executing RISC-V programs, which is extremely useful for testing, debugging, and learning how RISC-V processors work under the hood.
+
+  Developers use Spike to simulate compiled programs, analyze instruction execution, and ensure their software behaves correctly before deploying it to hardware.
+
+  To compile C programs for RISC-V, we use the **GNU Compiler Collection (GCC)** configured for RISC-V targets. Once compiled, the binaries can be run and debugged in Spike.
+
+  ---
+
+  ### 🧪 Running a RISC-V Program in Spike
+
+  After compiling the C file using `riscv64-unknown-elf-gcc`, we run the output binary on Spike using:
+
+  ```bash
+  spike pk sum1ton.o
