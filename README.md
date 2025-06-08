@@ -660,7 +660,7 @@ These waveform files are then loaded into GTKWave for graphical analysis of the 
 
 Installing iverilog using command ``sudo apt install iverilog gtkwave``
 
-![Task](task4/1.png)
+![Task](Task4/1.png)
 
 Steps to perform functional simulation of RISC-V:
 -
@@ -683,7 +683,7 @@ it will create iiitb_rv32i.vcd file which is used for gtkwave.
 
 5.Open the gtkwave using command ``gtkwave iiitb_rv32i.vcd``
 
-![Task](task2/2.png)
+![Task](Task4/2.png)
 
 The given Verilog file contains instructions that are hard-coded, meaning the designer has used custom bit patterns for each instruction instead of following the standard RISC-V specification for bit encoding.
 
@@ -710,22 +710,22 @@ Veifying instructions using Gtkwave :
 -
 1.``ADD R6, R2, R1``
 
-![Task](task2/3.png)
+![Task](Task4/3.png)
 
 2.``SUB R7, R1, R2``
 
-![Task](task2/4.png)
+![Task](Task4/4.png)
 
 3.``AND R8, R1, R3``
 
-![Task](task2/5.png)
+![Task](Task4/5.png)
 
 4.``OR R9, R2, R5``
 
-![Task](task2/6.png)
+![Task](Task4/6.png)
 
 5.``XOR R10, R1, R4``
-![Task](task2/7.png)
+![Task](Task5/7.png)
 
 6.``SW R3, R1, 2``
 
